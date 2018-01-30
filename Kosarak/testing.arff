@@ -1,0 +1,19 @@
+@RELATION clicks
+@ATTRIBUTE i1 {0, 1}
+@ATTRIBUTE i2 {0, 1}
+@ATTRIBUTE i3 {0, 1}
+@ATTRIBUTE i4 {0, 1}
+@ATTRIBUTE i5 {0, 1}
+@ATTRIBUTE i6 {0, 1}
+@ATTRIBUTE i7 {0, 1}
+@ATTRIBUTE i8 {0, 1}
+@ATTRIBUTE i9 {0, 1}
+@ATTRIBUTE i10 {0, 1}
+@ATTRIBUTE i11 {0, 1}
+@ATTRIBUTE i12 {0, 1}
+@DATA
+{0 1, 1 1, 2 1}
+{0 1}
+{1 1, 2 1, 3 1}
+{2 1, 3 1, 11 1}
+{0 1, 1 1, 2 1, 3 1, 4 1, 11 1}

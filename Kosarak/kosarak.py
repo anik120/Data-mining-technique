@@ -5,7 +5,7 @@ def create_arff():
 		print("Usage: kosarak.py [___.dat]")
 		exit()
 
-	output_file = open("kosarak.arff", "w")
+	output_file = open("testing.arff", "w")
 	input_file = open(sys.argv[1], "r")
 
 	numbers = []
